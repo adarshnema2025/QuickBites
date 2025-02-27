@@ -8,7 +8,9 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum in, beatae dolorem non optio cupiditate, quam sunt dicta dolores minima exercitationem ducimus totam aut asperiores inventore harum laudantium. Distinctio, libero.</p>
+                <p>PahalwanDaDhaba is your go-to food delivery app, bringing you rich flavors and hearty meals inspired by classic dhaba cooking. Whether you're craving spicy curries, stuffed parathas, or indulgent desserts, we’ve got something for every food lover. Our focus is on quality, taste, and generous portions — all delivered fresh to your door. Good food, made with love, delivered with care.
+
+</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
@@ -27,15 +29,15 @@ const Footer = () => {
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+94 765489545</li>
-                    <li>dulanjalisenarathna93@gmail.com</li>
+                    <li>+94 1234567890</li>
+                    <li>pahalwandadhaba@gmail.com</li>
                 </ul>
             </div>
            
         </div>
         <hr />
         <p className="footer-copyright">
-            Copyright 2024 &copy; Dulanjali - All Right Reserved.
+            Copyright 2025 &copy; PahalwanDaDhaba - All Right Reserved.
         </p>
     </div>
   )
